@@ -1,6 +1,6 @@
 {
   "name": "typographic-currency-db",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Raw data about typographic currency",
   "main": "index.es5.js",
   "scripts": {
