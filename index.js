@@ -11,11 +11,13 @@ module.exports = {
   'BTC': '\u0243', // Ƀ
   'CNY': '\u00a5', // ¥
   'CRC': '\u20a1', // ₡
+  'HUF': 'ƒ',
   'EUR': '\u20ac', // €
   'FKP': '\u00a3', // £
   'GBP': '\u00a3', // £
   'GHS': '\u20b5', // ₵
   'GIP': '\u00a3', // £
+  'IDR': '₨',
   'ILS': '\u20aa', // ₪
   'INR': '\u20b9', // ₹
   'IRR': '\ufdfc', // ﷼
@@ -44,6 +46,7 @@ module.exports = {
   'SVC': '\u20a1', // ₡
   'SYP': '\u00a3', // £
   'THB': '\u0e3f', // ฿
+  'TRY': '₺',
   'UAH': '\u20b4', // ₴
   'USD': '\u0024', // $
   'VND': '\u20ab', // ₫
